@@ -216,7 +216,7 @@ print(f"سلام {name} 👋")
 
 ## درباره نویسنده
 
-[برنا اطمینان](https:/github.com/Borna-Etminan)
+[برنا اطمینان](https://github.com/Borna-Etminan)
 
 علاقه‌مند به برنامه‌نویسی، Python و آموزش مفاهیم برنامه‌نویسی به زبان ساده.
 
