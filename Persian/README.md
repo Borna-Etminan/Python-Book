@@ -175,8 +175,8 @@
 
 تمام کدهای کتاب در فایل Jupyter Notebook زیر قرار دارند:
 
-```text
-[کد های کتاب](https://github.com/Borna-Etminan/Python-Book/blob/main/Persian/Book-Codes.ipynb)
+```link
+https://github.com/Borna-Etminan/Python-Book/blob/main/Persian/Book-Codes.ipynb
 ```
 
 ---
