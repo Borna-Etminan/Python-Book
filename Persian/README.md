@@ -176,7 +176,7 @@
 تمام کدهای کتاب در فایل Jupyter Notebook زیر قرار دارند:
 
 ```text
-PythonMagicBook.ipynb
+[کد های کتاب](https://github.com/Borna-Etminan/Python-Book/blob/main/Persian/Book-Codes.ipynb)
 ```
 
 ---
@@ -185,7 +185,7 @@ PythonMagicBook.ipynb
 
 ```text
 2026 Edition
-Version: v1.0
+Version: v2.0.0
 ```
 
 ---
@@ -216,7 +216,7 @@ print(f"سلام {name} 👋")
 
 ## درباره نویسنده
 
-[نام یا نام مستعار شما]
+[برنا اطمینان](https:/github.com/Borna-Etminan)
 
 علاقه‌مند به برنامه‌نویسی، Python و آموزش مفاهیم برنامه‌نویسی به زبان ساده.
 
