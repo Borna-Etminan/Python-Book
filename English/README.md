@@ -209,7 +209,7 @@ Version: v2.0.0
 
 📘 Official Edition
 
-[Purchase on Fidibo]()
+[Purchase on Fidibo](https://fidibo.com/book/196215-python)
 
 ---
 
